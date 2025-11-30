@@ -1,4 +1,6 @@
 # Chapter 1
 
-- Q. Positional Encoding 값을 추가하는 것의 의미 좀 더 확인해보기
-- Q. Positional Encoding 값을 추가하지 않는 것이 오히려 성능이 좋다라는 의견에 대해 확인해보기
+- Q. Transformer Architecture 추가 학습하기
+
+[논문 v1, v5, v6, v7 버전 차이 확인](https://arxiv.org/abs/1706.03762)
+
